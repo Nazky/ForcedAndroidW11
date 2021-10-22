@@ -8,6 +8,6 @@ Tuto to change the url if you have a "Access Denied" error [here](https://pasteb
 | Minimum      | Recommended     |
 |--------------|-----------|
 | Windows 10 version 22000.63 or higher | Windows 10 version 22000.63 or higher      |
-| ARM64, x64      | ARM64, x64  |
-| 8 GB    | 16 GB  |
+| ARM64, x64 | ARM64, x64  |
+| 8 GB | 16 GB  |
 | Availability: Only available to Windows 11 Insiders on Beta Channel in the US. |
