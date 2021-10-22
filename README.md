@@ -3,6 +3,8 @@ Some computer have the system requirements but not let you install android so he
 
 Tuto to change the url if you have a "Access Denied" error [here](https://pastebin.com/5ZGgE46k)
 
+YOU NEED TO RUN THE SCRIPT IN ADMIN MODE
+
 ## System Requirements
 
 | Minimum      | Recommended     |
