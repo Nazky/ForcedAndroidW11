@@ -1,6 +1,8 @@
 # ForcedAndroidW11
 Some computer have the system requirements but not let you install android so here is a simple script to download and install the WSA. (Wdinows Subsystem for Android)
 
+Tuto to change the url if you have a "Access Denied" error [here](https://pastebin.com/5ZGgE46k)
+
 ## System Requirements
 
 | Minimum      | Recommended     |
