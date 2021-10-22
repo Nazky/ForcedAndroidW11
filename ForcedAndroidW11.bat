@@ -25,7 +25,7 @@ echo Download Finish
 
 del output
 
-powershell Start-Process powershell -Verb runAs Add-AppxPackage -Path MicrosoftCorporationII.WindowsSubsystemForAndroid_1.7.32815.0_neutral_~_8wekyb3d8bbwe.msixbundle
+powershell Add-AppxPackage -Path MicrosoftCorporationII.WindowsSubsystemForAndroid_1.7.32815.0_neutral_~_8wekyb3d8bbwe.msixbundle
 
 echo Package Install
 
