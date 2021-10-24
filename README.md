@@ -14,4 +14,18 @@ RUN THE SCRIPT IN ADMIN !!!!!!!!!!
 | 8 GB | 16 GB  |
 | Availability: Only available to Windows 11 Insiders on Beta Channel in the US. |
 
+## F.A.Q
+
+### I have a error when i run the script why ?
+#### Post the error in the issues section or contact me on twitter
+
+### The ADB command is not working why ?
+#### Run the WSA once (by running a app like the file app or amazon or play store)
+
+### I can't connect to my Google account why ?
+#### This is a "bug" and you need to fix it by using my script and choose the "fix Google sign in" option or by using adb manually (after every reboot of the WSA you need to fix it)
+
+### You'r english is sh*t
+#### Yeah i know and i am tired sorry lol
+
 Thanks to [ADeltaX](https://github.com/ADeltaX) for the [WSAGAScript](https://github.com/ADeltaX/WSAGAScript)
