@@ -13,3 +13,5 @@ RUN THE SCRIPT IN ADMIN !!!!!!!!!!
 | ARM64, x64 | ARM64, x64  |
 | 8 GB | 16 GB  |
 | Availability: Only available to Windows 11 Insiders on Beta Channel in the US. |
+
+Thanks to (ADeltaX)[https://github.com/ADeltaX] for the (WSAGAScript)[https://github.com/ADeltaX/WSAGAScript]
