@@ -14,4 +14,4 @@ RUN THE SCRIPT IN ADMIN !!!!!!!!!!
 | 8 GB | 16 GB  |
 | Availability: Only available to Windows 11 Insiders on Beta Channel in the US. |
 
-Thanks to (ADeltaX)[https://github.com/ADeltaX] for the (WSAGAScript)[https://github.com/ADeltaX/WSAGAScript]
+Thanks to [ADeltaX](https://github.com/ADeltaX) for the [WSAGAScript](https://github.com/ADeltaX/WSAGAScript)
