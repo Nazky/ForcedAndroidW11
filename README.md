@@ -1,5 +1,5 @@
 # ForcedAndroidW11
-Some computer have the system requirements but not let you install android so here is a simple script to download and install the WSA. (Wdinows Subsystem for Android)
+Some computer have the system requirements but not let you install android so here is a simple script to download and install the WSA. (Windows Subsystem for Android)
 
 with the the latest version WSA is going to be install with gapps :)
 
