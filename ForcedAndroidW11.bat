@@ -65,7 +65,7 @@ goto :MENU
 :DWSA
 echo Download file...
 
-powershell [Text.Encoding]::Utf8.GetString([Convert]::FromBase64String('aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vcy9lNnJvMzE5NXJuYjIyc2cvV1NBRy56aXA/ZGw9MQ==')) > output
+powershell [Text.Encoding]::Utf8.GetString([Convert]::FromBase64String('aHR0cHM6Ly9zdG9yZTIuZ29maWxlLmlvL2Rvd25sb2FkLzJmYTUyM2M5LTE2ZmQtNDJiZi1hYjIxLTU1YzZjMGRmODFhMC9XU0FHLnppcA==')) > output
 
 set /p url=<output
 
@@ -153,7 +153,7 @@ echo.
 
 echo Download file...
 
-powershell [Text.Encoding]::Utf8.GetString([Convert]::FromBase64String('aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vcy9lNnJvMzE5NXJuYjIyc2cvV1NBRy56aXA/ZGw9MQ==')) > output
+powershell [Text.Encoding]::Utf8.GetString([Convert]::FromBase64String('aHR0cHM6Ly9zdG9yZTIuZ29maWxlLmlvL2Rvd25sb2FkLzJmYTUyM2M5LTE2ZmQtNDJiZi1hYjIxLTU1YzZjMGRmODFhMC9XU0FHLnppcA==')) > output
 
 set /p url=<output
 
