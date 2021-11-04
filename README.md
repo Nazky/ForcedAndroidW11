@@ -5,6 +5,8 @@ with the the latest version WSA is going to be install with gapps :)
 
 RUN THE SCRIPT IN ADMIN !!!!!!!!!!
 
+if you have a error use this to update the link : https://pastebin.com/heFukQix (i try to find a way to have a static link)
+
 ## System Requirements
 
 | Minimum      | Recommended     |
